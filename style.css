@@ -1,0 +1,37 @@
+.header{
+    color: aqua;
+    font-size: 6em;
+}
+h1{
+    color: blue;
+}
+.second_line{
+    color: red;
+}
+.third_line{
+    color: orange;
+    font-size: 3em;
+    background-color: blue;
+}
+#fourth_line{
+    color: darkgreen;
+}
+h1#Fifth_line{
+    color: blueviolet;
+}
+h1.green{
+    color: deeppink;
+}
+h1#yellow + h1.red{
+    color: coral;
+}
+.two > .green{
+    color: rgb(102, 210, 48);
+}
+body span#red{
+    color: red;
+    font-size: 5em;
+}
+#yellow{
+    color: yellow;
+}
